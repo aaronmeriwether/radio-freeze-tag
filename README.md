@@ -1,5 +1,5 @@
 
-> Open this page at [https://p120ph37.github.io/radio-freeze-tag/](https://p120ph37.github.io/radio-freeze-tag/)
+> Open this page at [https://aaronmeriwether.github.io/radio-freeze-tag/](https://aaronmeriwether.github.io/radio-freeze-tag/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/p120ph37/radio-freeze-tag** and import
+* search for **https://github.com/aaronmeriwether/radio-freeze-tag** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/p120ph37/radio-freeze-tag** and click import
+* paste **https://github.com/aaronmeriwether/radio-freeze-tag** and click import
 
 #### Metadata (used for search, rendering)
 
